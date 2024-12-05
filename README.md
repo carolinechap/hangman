@@ -41,19 +41,14 @@ pip install emoji colorama
 
 
 ```bash 
-git clone https://github.com/votre-utilisateur/hangman-game.git
+git clone https://github.com/carolinechap/hangman
 ```
 
 - Navigate to the project directory:
 
 ```bash 
-cd hangman-game
+cd hangman
 ```
-## Run Locally
-
-Pour lancer le jeu, exécutez simplement le fichier principal :
-
-
 
 ## Usage
 
