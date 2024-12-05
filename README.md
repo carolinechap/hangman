@@ -6,6 +6,11 @@ Welcome to the Hangman game 🧙‍♂️!
 
 This project is an implementation of the classic Hangman game in Python. The game involves guessing a word (or a Harry Potter spell in this case) by guessing letters one by one. You have a limited number of attempts before you lose.
 
+<p align="center" width="100%">
+    <img src="https://github.com/user-attachments/assets/a4bb0ca1-9f48-4416-b870-9f2af35ace7c">
+</p>
+
+
 ## Tech Stack
 
 - Python 3.x
